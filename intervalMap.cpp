@@ -1,11 +1,6 @@
-// thinkCell.cpp : This file contains the 'main' function. Program execution begins and ends there.
-//
-
 #include <iostream>
-
 #include <map>
 #include <limits>
-
 #include <time.h>  
 
 template<typename K, typename V>
