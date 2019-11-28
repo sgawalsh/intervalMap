@@ -1,5 +1,5 @@
 # intervalMap
-This project implements an Interval Map[Interval Map](https://docs.racket-lang.org/data/interval-map.html) object in C++. The class is designed to accept any combination of key and value object types.
+This project implements an [Interval Map](https://docs.racket-lang.org/data/interval-map.html) object in C++. The class is designed to accept any combination of key and value object types.
 
 
 Sample output:
